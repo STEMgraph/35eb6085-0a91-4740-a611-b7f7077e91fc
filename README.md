@@ -1,6 +1,7 @@
 <!---
 {
   "id": "35eb6085-0a91-4740-a611-b7f7077e91fc",
+  "teaches": "Understanding and Using Git Tags",
   "depends_on": [],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-20",
