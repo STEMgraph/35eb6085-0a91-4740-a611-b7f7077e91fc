@@ -2,7 +2,7 @@
 {
   "id": "35eb6085-0a91-4740-a611-b7f7077e91fc",
   "teaches": "Understanding and Using Git Tags",
-  "depends_on": ["https://github.com/STEMgraph/474307f2-a30c-4639-9379-298bf1a4c00b"],
+  "depends_on": ["474307f2-a30c-4639-9379-298bf1a4c00b"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-20",
   "keywords": ["git", "tags", "version control", "local development", "release management"]
